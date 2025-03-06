@@ -1,0 +1,10 @@
+pandas
+numpy
+ccxt
+requests
+flask
+flask-cors
+xgboost
+lightgbm
+tensorflow
+scikit-learn
